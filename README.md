@@ -1,6 +1,7 @@
-#Reinforcement Learning:
+# Reinforcement Learning:
 
-##Q-Networks. An introduction: Wandering through a maze
+## Q-Networks. An introduction: Wandering through a maze
+
 This is an attempt to explore a simple example of a q-network.
 
 ![A sample screenshot](./img/q_network_playground.PNG)
